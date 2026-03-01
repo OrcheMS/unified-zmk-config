@@ -12,3 +12,8 @@
 #     shield: reviung41
 #
 ---
+include:
+  - board: nrfmicro/nrf52840/zmk@1.3
+    shield: sofle_left
+  - board: nrfmicro/nrf52840/zmk@1.3
+    shield: sofle_right
